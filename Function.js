@@ -15,3 +15,5 @@ console.log (variavel)
 //----------------------------------- Function -----------------------------------
 //So e executado quando e chamada
 
+
+
